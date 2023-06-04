@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\file3\Infrasturcture\bin\Debug\net7.0\Infrasturcture.deps.json
+C:\Users\User\Desktop\file3\Infrasturcture\bin\Debug\net7.0\Infrasturcture.dll
+C:\Users\User\Desktop\file3\Infrasturcture\bin\Debug\net7.0\Infrasturcture.pdb
+C:\Users\User\Desktop\file3\Infrasturcture\bin\Debug\net7.0\Domain.dll
+C:\Users\User\Desktop\file3\Infrasturcture\bin\Debug\net7.0\Domain.pdb
+C:\Users\User\Desktop\file3\Infrasturcture\obj\Debug\net7.0\Infrasturcture.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\file3\Infrasturcture\obj\Debug\net7.0\Infrasturcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\file3\Infrasturcture\obj\Debug\net7.0\Infrasturcture.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\file3\Infrasturcture\obj\Debug\net7.0\Infrasturcture.AssemblyInfo.cs
+C:\Users\User\Desktop\file3\Infrasturcture\obj\Debug\net7.0\Infrasturcture.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\file3\Infrasturcture\obj\Debug\net7.0\Infrasturcture.csproj.CopyComplete
+C:\Users\User\Desktop\file3\Infrasturcture\obj\Debug\net7.0\Infrasturcture.dll
+C:\Users\User\Desktop\file3\Infrasturcture\obj\Debug\net7.0\refint\Infrasturcture.dll
+C:\Users\User\Desktop\file3\Infrasturcture\obj\Debug\net7.0\Infrasturcture.pdb
+C:\Users\User\Desktop\file3\Infrasturcture\obj\Debug\net7.0\ref\Infrasturcture.dll
+C:\Users\User\Desktop\exam 04.06.23\Infrasturcture\obj\Debug\net7.0\Infrasturcture.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\exam 04.06.23\Infrasturcture\obj\Debug\net7.0\Infrasturcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\exam 04.06.23\Infrasturcture\obj\Debug\net7.0\Infrasturcture.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\exam 04.06.23\Infrasturcture\obj\Debug\net7.0\Infrasturcture.AssemblyInfo.cs
+C:\Users\User\Desktop\exam 04.06.23\Infrasturcture\obj\Debug\net7.0\Infrasturcture.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\exam 04.06.23\Infrasturcture\obj\Debug\net7.0\Infrasturcture.dll
+C:\Users\User\Desktop\exam 04.06.23\Infrasturcture\obj\Debug\net7.0\refint\Infrasturcture.dll
+C:\Users\User\Desktop\exam 04.06.23\Infrasturcture\obj\Debug\net7.0\Infrasturcture.pdb
+C:\Users\User\Desktop\exam 04.06.23\Infrasturcture\bin\Debug\net7.0\Infrasturcture.deps.json
+C:\Users\User\Desktop\exam 04.06.23\Infrasturcture\bin\Debug\net7.0\Infrasturcture.dll
+C:\Users\User\Desktop\exam 04.06.23\Infrasturcture\bin\Debug\net7.0\Infrasturcture.pdb
+C:\Users\User\Desktop\exam 04.06.23\Infrasturcture\bin\Debug\net7.0\Domain.dll
+C:\Users\User\Desktop\exam 04.06.23\Infrasturcture\bin\Debug\net7.0\Domain.pdb
+C:\Users\User\Desktop\exam 04.06.23\Infrasturcture\obj\Debug\net7.0\Infrasturcture.csproj.CopyComplete
+C:\Users\User\Desktop\exam 04.06.23\Infrasturcture\obj\Debug\net7.0\ref\Infrasturcture.dll
